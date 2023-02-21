@@ -1,0 +1,30 @@
+.estiloProductos{
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+
+}
+.estiloProducto{
+    width: 18rem;
+    margin: 5px;
+    background-color: rgb(53, 45, 13);
+    color: white;
+}
+
+.estiloCuerpo{
+    background-color: rgb(209, 196, 19);
+    margin-bottom: 5px;
+    text-align: center;
+}
+.imagen{
+    margin-top: 5px;
+}
+.productoIndividual{
+    margin: 20px;
+}
+.textoEstilo{
+    color: beige;
+}
+.botonDeCompra{
+    margin-right: 10px;
+}

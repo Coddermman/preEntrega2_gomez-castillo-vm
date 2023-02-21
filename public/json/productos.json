@@ -1,0 +1,130 @@
+[
+
+{
+    "id":1,
+    "idCategoria":1,
+    "nombre":"Leggings deportivos de cintura ancha suave",
+    "marca":"Nike",
+    "modelo":"Verano",
+    "precio":"39790",
+    "stock":10,
+    "imagen":"Leggings.webp"
+},
+
+{
+    "id":2,
+    "idCategoria":1,
+    "nombre":"Top tank crop algodón unicolor",
+    "marca":"Calvin Klein",
+    "modelo":"BASICS",
+    "precio": 85990,
+    "stock": 20,
+    "imagen":"top_tank.webp"
+},
+
+{
+    "id":3,
+    "idCategoria":1,
+    "nombre":" Pantalones de caballero, largo con bolsillo  ",
+    "marca":"Adidas",       
+    "modelo":"Sport",
+    "precio":75850,
+    "stock":12,
+    "imagen":"pantalon_hombre.webp"
+},        
+{
+    "id":4,
+    "idCategoria":1,
+    "nombre":"Camiseta unicolor de cuello redondo",
+    "marca":"Polo",
+    "modelo": "Juvenil",    
+    "precio":62200,
+    "stock":50,
+    "imagen":"camiseta_unicolor.webp"
+    },
+
+{
+    "id":5,
+    "idCategoria":2,
+    "nombre":"Zapatillas skate, mujer, con estampado ",
+    "marca": "Nike",
+    "modelo":"paseo",
+    "precio":43590,
+    "stock":10,
+    "imagen":"zapatilla_alta-dama.webp"
+},
+{
+    "id":6,
+    "idCategoria":2,
+    "nombre":"Zapatillas color combinado con cordón ",
+    "marca": "Reebook",
+    "modelo": "paseo",
+    "precio":35990,
+    "stock":30,
+    "imagen":"zapatilla_baja-dama.webp"
+},
+
+{
+    "id":7,
+    "idCategoria":2,
+    "nombre":"Zapatillas hombres con estampado con cordón ",
+    "marca":"Adidas",
+    "modelo":"running",
+    "precio":145000,
+    "stock":20,
+    "imagen":"zapatilla_hombre1.webp"
+},
+{
+    "id":8,
+    "idCategoria":2,
+    "nombre":"Zapatillas altas con estampado,hombre",
+    "marca":"Converse",
+    "modelo":"Montaña",
+    "precio":120000,
+    "stock":5,
+    "imagen":"zapatilla_botin.webp"
+},
+{
+    "id":9,
+    "idCategoria":3,
+    "nombre":"Cinturón con textura con hebilla metálica",
+    "marca":"Polo",
+    "modelo": "Herramienta",
+    "precio":37000,
+    "stock":20,
+    "imagen":"cinturon_dama.webp"
+},
+{
+    "id":10,
+    "idCategoria":3,
+    "nombre":"Sombrero de paja beige doble con diseño de cuenta",
+    "marca":"CH",
+    "modelo":"playa",
+    "precio":55000,
+    "stock":13,
+    "imagen":"sombrero_dama.webp"
+},
+{
+    "id":11,
+    "idCategoria":3,
+    "nombre":"Gorro béisbol con parche con forro para hombres ",
+    "marca":"Nike",
+    "modelo":"casual",
+    "precio":37990,
+    "stock":25,
+    "imagen":"gorra_hombre.webp"
+},
+{
+    "id":12,
+    "idCategoria":3,
+    "nombre":" Cinturón tela tipo  cinta con hebilla mediana, hombre",
+    "marca":"Paco-Rabane",
+    "modelo":"turismo",
+    "precio":60000,
+    "stock":20,
+    "imagen":"cinturon_hebilla.webp"
+}
+
+
+]
+
